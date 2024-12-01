@@ -24,8 +24,8 @@ A production-ready Node.js backend boilerplate with Express, featuring robust er
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BintangDiLangit/nodejs_structure_template_be.git
-cd nodejs_structure_template_be
+git clone https://github.com/BintangDiLangit/modern_nodejs_boilerplate.git
+cd modern_nodejs_boilerplate
 ```
 
 2. Install dependencies:
